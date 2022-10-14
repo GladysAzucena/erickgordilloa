@@ -3,8 +3,8 @@
 
 **Hi, I'm Erick Gordillo,** a Developer.
 
-- 🔭 I’m currently working on Links
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on PayPhone
+- 🌱 I’m currently learning Nextjs
 - ⚡ Passionate about technology and continuous training
 
 **Languages and Tools:**
