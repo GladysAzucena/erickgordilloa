@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on PayPhone
 - 🌱 I’m currently learning Nextjs
 - ⚡ Passionate about technology and continuous training
-
+Email?
 **Languages and Tools:**
 
 
